@@ -1,0 +1,16 @@
+{
+	"users": [
+		{
+			"name": "Keno",
+			"email": "fejza2806@gmail.com",
+			"password": "$2b$10$uEpuw.Q3LKcqg3Sx/J4mZeqitLdxZDmLUsG84NSIb.V.gkbeRnU4S",
+			"id": "7e434e59-c87d-4949-b486-b3ee43fa49ec",
+			"role": "admin"
+		},
+		{
+			"name": "Keno",
+			"email": "fejza2806@gmail.com",
+			"password": "fejza"
+		}
+	]
+}
